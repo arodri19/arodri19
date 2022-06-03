@@ -9,7 +9,7 @@
 
 ## Hello there
 
-Right bellow and these links above can know me a lit bit more
+Right bellow and these links above can know me a little bit more about me
 
 ## Public information
 
