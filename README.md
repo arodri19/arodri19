@@ -18,7 +18,8 @@ My name is André Rodrigues Queiroz. I currently live in Guarujá, at coast in S
 ## Detailed information
 
 * **Name**: André Rodrigues Queiroz
-* **Age**: 30
+* **Year Birth**: 1992
+* **Start Working With Code**: 2016
 * **Living in**: Guarujá - SP, Brazil
 * **Stack**: Nodejs, .Net, Vuejs, SQL, Mongodb, Neo4j, Redis, RabbitMQ, Docker
 * **University**:
